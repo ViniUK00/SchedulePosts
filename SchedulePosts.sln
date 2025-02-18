@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulePosts", "SchedulePosts\SchedulePosts.csproj", "{DAB1F88E-1F04-4FE9-A259-0768E8AA307B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulePosts.API", "SchedulePosts.API\SchedulePosts.API.csproj", "{26E784C1-80C6-4879-B063-D19D9242DDFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DAB1F88E-1F04-4FE9-A259-0768E8AA307B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAB1F88E-1F04-4FE9-A259-0768E8AA307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAB1F88E-1F04-4FE9-A259-0768E8AA307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAB1F88E-1F04-4FE9-A259-0768E8AA307B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E784C1-80C6-4879-B063-D19D9242DDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E784C1-80C6-4879-B063-D19D9242DDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E784C1-80C6-4879-B063-D19D9242DDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E784C1-80C6-4879-B063-D19D9242DDFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
